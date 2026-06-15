@@ -23,3 +23,8 @@ go.work.sum
 
 # env file
 .env
+
+# Hugo build artifacts (Cloudflare がビルドするため追跡不要)
+/public/
+/resources/_gen/
+.hugo_build.lock

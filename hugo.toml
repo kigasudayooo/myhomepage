@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myhomepage.pages.dev/'
 languageCode = 'ja-jp'
 title = '"Sketching in the Margins"'
 theme = 'hermit-v2'
+
+enableRobotsTXT = true
