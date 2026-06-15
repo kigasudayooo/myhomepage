@@ -3,6 +3,8 @@
 Hugo + [hermit-v2](https://github.com/1bl4z3r/hermit-V2) テーマで構築した個人サイト。
 [Cloudflare Pages](https://pages.cloudflare.com/) で完全無料・セキュアにホスティングする。
 
+> 📖 **記事やページの作り方がわからない方へ** → [docs/hugo-guide.md](docs/hugo-guide.md)（初学者向けマニュアル）
+
 ## ローカル開発
 
 ```bash
